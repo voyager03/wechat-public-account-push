@@ -15,46 +15,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '353d3bfb4ea0bd6a1f1b0ca38313c14d',
 
-  SWITCH: {
-    /** 每日天气 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: true,
-
-    /** 节假日 */
-    // 下一休息日综合提醒, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    holidaytts: true,
-
-    /** 每日N句 */
-    // 金山每日一句, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    CIBA: false,
-    
-    // 每日一言, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    oneTalk:false,
-    
-    // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: true,
-    
-    // 朋友圈文案, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    momentCopyrighting:false,
-    
-    // 毒鸡汤, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poisonChickenSoup: false,
-    
-    // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poetry: false,
-
-    /** 星座运势 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    horoscope: false,
-  
-    /** 生日消息和节日消息 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    birthdayMessage: false,
-  
-    /** 学生课表 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    courseSchedule:false,
-  },
+ 
   
   PROVINCE: '北京市',
   CITY: '海淀区',
@@ -66,7 +27,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKECb5iJ3xV52VfX3Yb4fUVkOGsw'
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'FgEW7Wg8YBMpHcCkwGfkO8gvQGrE17L4l0YFC4bIqtE',
+      useTemplateId: '4xRyF0pgBDWmrRA_zfR6qBsNJD2CheFP3YIBIiswb9o',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
