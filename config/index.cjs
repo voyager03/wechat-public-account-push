@@ -10,10 +10,10 @@ const USER_CONFIG = {
  USE_PASSAGE: 'push-deer',
 
   // 使用微信测试号：公众号APP_ID
-  // APP_ID: 'wx8424afd6b1253806',
+  // APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
- // APP_SECRET: '353d3bfb4ea0bd6a1f1b0ca38313c14d',
+ // APP_SECRET: '',
 
  
   
@@ -25,9 +25,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU21348T8Ektv33L5beRmOkZIsgctRyJqSwg0jeM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'JHSZI_YNqhF4_WJlsXpPAB4HDqqC6Q6Qz_GmaSq3Bak',
+      useTemplateId: '0001',
      
      
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -61,7 +61,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'LGTF-KE_-gCLTmDrlA1Auwzavo04ih3I5m33Ri2lPHs',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
