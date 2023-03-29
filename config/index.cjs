@@ -26,7 +26,7 @@ const USER_CONFIG = {
      
      
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '02-12',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
      {
