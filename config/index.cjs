@@ -9,7 +9,8 @@ const USER_CONFIG = {
  
  USE_PASSAGE: 'push-deer',
 
- 
+ appId:"wx8424afd6b1253806",
+ appSecret:"353d3bfb4ea0bd6a1f1b0ca38313c14d",
   
   PROVINCE: '北京',
   CITY: '海淀区',
