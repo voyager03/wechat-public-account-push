@@ -25,7 +25,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKECb5ow_2QxrnmtUp0gAK0RHLno',
+      id: 'oKECb5iJ3xV52VfX3Yb4fUVkOGsw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'JHSZI_YNqhF4_WJlsXpPAB4HDqqC6Q6Qz_GmaSq3Bak',
      
@@ -61,7 +61,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'JHSZI_YNqhF4_WJlsXpPAB4HDqqC6Q6Qz_GmaSq3Bak',
+  CALLBACK_TEMPLATE_ID: 'LGTF-KE_-gCLTmDrlA1Auwzavo04ih3I5m33Ri2lPHs',
 
   CALLBACK_USERS: [
     {
